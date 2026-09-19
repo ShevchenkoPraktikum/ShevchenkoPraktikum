@@ -14,4 +14,4 @@
 
 ## Ссылки для связи:
 
-![https://t.me/djet03](https://img.icons8.ru/?size=100&id=lUktdBVdL4Kb&format=png&color=000000)
+[![Telegram](https://img.icons8.ru/?size=100&id=lUktdBVdL4Kb&format=png&color=000000)](https://t.me/djet03)
